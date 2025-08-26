@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 💼 Experienced in **SQL Server**, **Data Processing**, and **Business Reporting**
-- 💻 Skilled in **T-SQL**, writing optimized queries, procedures, and business reports
+- 💻 Skilled in **T-SQL**, writing optimized queries, Joins, procedures, Functions, Triggers, and business reports
 - 📊 Passionate about transforming raw data into valuable insights
 - 🎓 Currently studying **Data Science** (Python, ML, Data Visualization)
 
@@ -25,7 +25,7 @@
 |------------|----------------------|
 | **Database** | SQL Server, SSMS, T-SQL |
 | **Reporting** | SSRS, Excel |
-| **Data Science (in progress)** | Python, Pandas, Numpy, Matplotlib |
+| **Data Science (in progress)** | Snowflake, Looker Studio,Python, Pandas, Numpy|
 | **Other Tools** | Git, GitHub, Visual Studio Code |
 
 ---

@@ -1,8 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/ZhbvCtf.png" alt="Data Science Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Sifiso Dhlamini</h1>
 <h3 align="center">SQL Business Support | Data Enthusiast | Aspiring Data Scientist</h3>
 
